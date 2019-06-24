@@ -10,6 +10,8 @@ import matplotlib.pyplot as plt
 import time
 import pandas as pd
 
+print("hello")
+
 class LoadReplayData:
     def __init__(self, filename):
         self.filename = filename
